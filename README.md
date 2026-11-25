@@ -21,5 +21,5 @@ Currently
 - IaaS Account Manager, Cloudinative. I work with enterprise customers from their first product demonstration through deployment follow-up and renewal.
 - Research interests. I am interested in PhD opportunities in medical image analysis, multimodal learning, and the evaluation of diagnostic errors.
 Connect
-- LinkedIn
-- Email
+- LinkedIn:www.linkedin.com/in/maryam-laaleaali
+- Email: maryamlaaleaali@gmail.com
